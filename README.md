@@ -22,12 +22,15 @@ como rodar o projeto?
 1.instale/clone a pasta do github
 
 2.abra o terminal e entre ou crie a pasta do projeto
+
 cd nome-da-pasta(entrar na pasta)
+
 mkdir nome-da-pasta(criar a pasta)
 
 3. identifique todos os arquivos com ".java"
 
 4. compile todos os arquivos
+
   javac Transacao.java Receita.java Despesa.java Gestor.java Main.java
 
 5.Rode o projeto 
