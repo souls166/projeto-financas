@@ -14,6 +14,7 @@ visualização grafica(grafico de pizza)
 Requisitos Fundamentais
 -
 -tenha o java instalado(o swing ja vem junto com o java)
+
 -funciona em qualquer sistema operacional
 
 como rodar o projeto?
